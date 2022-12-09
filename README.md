@@ -244,7 +244,8 @@ webcam.release()
 cv2.destroyAllWindows()
 
 ```
-Test Photographs - Masked and Unmasked.
+## Test Photographs - Unmasked.
 ![test_img](https://user-images.githubusercontent.com/111745916/206692740-8a1693fd-6db4-4193-becf-1bf4b16bd785.png)
+## Masked
 ![second_img](https://user-images.githubusercontent.com/111745916/206692750-3767f7f5-087e-46c6-a598-e16fb9cf9399.png)
 
